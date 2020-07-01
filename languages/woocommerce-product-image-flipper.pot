@@ -1,0 +1,36 @@
+# Copyright (C) 2017 Weblankan WooCommerce Product Image Flipper
+# This file is licensed under the same license as the Flipper kit for WooCommerce product picture
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblankan WooCommerce Product Image Flipper 0.4.0\n"
+"Report-Msgid-Bugs-To: https://github.com/AselaWD"
+"product-image-flipper\n"
+"POT-Creation-Date: 2017-07-21 10:45:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Product Image Flipper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/AselaWD"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Adds a secondary image on product archives that is revealed on hover. "
+"Perfect for displaying front/back shots of clothing and other products."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "jameskoster"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/AselaWD"
+msgstr ""
