@@ -43,8 +43,13 @@ ul.products li.wlimgr-has-gallery a.woocommerce-loop-product__link [class*="wp-p
 
 ul.products li.wlimgr-has-gallery a.woocommerce-loop-product__link:hover .wp-post-image {
 	opacity: 0;
+	overflow: hidden;
 }
 
 ul.products li.wlimgr-has-gallery a.woocommerce-loop-product__link:hover .wp-post-image--secondary {
 	opacity: 1;
+	position: relative;
+	transform: translate(0, -185px);
+	margin: auto;
+	margin-bottom: -175px;
 }
